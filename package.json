@@ -1,0 +1,22 @@
+{
+  "name": "brick-dev",
+  "version": "1.0.0",
+  "description": "brick dev part",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankLife/brick-dev.git"
+  },
+  "keywords": [
+    "dev"
+  ],
+  "author": "franklife",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frankLife/brick-dev/issues"
+  },
+  "homepage": "https://github.com/frankLife/brick-dev#readme"
+}
